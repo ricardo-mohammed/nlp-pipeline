@@ -1,6 +1,8 @@
 annotated-doc==0.0.5
 anyio==4.16.0
 asttokens==3.0.2
+certifi==2026.10.23
+charset-normalizer==3.5.2
 click==8.5.0
 cloudpickle==3.1.2
 colorama==0.4.6
@@ -14,7 +16,7 @@ h11==0.16.0
 hf-xet==1.8.0
 httpcore2==2.16.0
 httpx2==2.16.0
-huggingface_hub==2.4.0
+huggingface_hub==0.36.2
 idna==3.20
 ipykernel==7.4.0
 ipython==9.18.1
@@ -45,6 +47,7 @@ python-dateutil==4.0.0
 PyYAML==6.0.3
 pyzmq==27.3.0
 regex==2026.9.29
+requests==2.34.2
 rich==15.0.0
 safetensors==0.8.0
 scikit-learn==1.9.1
@@ -54,14 +57,15 @@ shellingham==1.5.4
 stack-data==0.6.3
 sympy==1.14.0
 threadpoolctl==3.7.0
-tokenizers==0.23.3
+tokenizers==0.22.2
 torch==2.15.0
 tornado==6.6
 tqdm==4.70.1
 traitlets==5.16.1
-transformers==5.22.1
+transformers==4.57.6
 truststore==0.10.5
 typer==0.27.3
 typing_extensions==4.16.0
 tzdata==2026.6
+urllib3==2.8.0
 wcwidth==0.9.4
